@@ -1,0 +1,8 @@
+# descriptors data
+input/descr/
+
+# *.mex*
+*.asv
+
+*.sublime*
+.DS_*

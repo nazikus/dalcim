@@ -1,0 +1,15 @@
+* text=auto
+
+*.manifest text eol=crlf
+
+*.mat binary
+*.fig binary
+
+*.bmp binary
+*.jpg binary
+*.png binary
+
+*.zip binary
+*.dll binary
+*.dylib binary
+*.so binary
